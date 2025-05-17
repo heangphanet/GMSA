@@ -10,6 +10,7 @@ const translations = {
     បន្ទាប់មកចុចកន្លែងដែលមានសញ្ញាចុច ៣ ដែលស្ថិតនៅចុងលើខាងស្តាំដៃ។`,
     shortcut2: `2. មើលមកផ្នែកខាងក្រោមសូមជ្រើសយក Cast,save, and share រួចចុច create shortcut។`,
     shortcut3: `3. ចុងក្រោយនឹងមាន alert មួយលោតមកយើងគ្រាន់តែដាក់ឈ្មោះ shortcut នោះហើយចុច create ជាការស្រេច។`,
+    shortcut4: `4. បន្ទាប់មកនៅបើកទៅកាន់ Gmail អ្នកត្រូវ Setup account ដោយយើងត្រូវ sign in បើសិនមាន account ស្រាប់ ឬ create account។`,
     label1: `1. ដំបូងធ្វើការស្វែងរកប៊ូតុង label រួចចុចលើវានឹងមាន popup មួយលោតមកដែលតម្រូវឲ្យយើងដាក់ឈ្មោះឲ្យ label ដែលយើងចង់បង្កើតនោះហើយចុច create ជាការស្រេច។`,
     label2: `2. ហើយអ្នកទាំងអស់គ្នាក៏អាចដាក់ពណ៌ទៅឲ្យ label ដែលយើងបានបង្កើតនោះក៏បានដែរដោយគ្រាន់តែ mouse ស្តាំទៅលើ label
     ណាមួយហើយចុច label color និងរើសពណ៌ដែលអ្នកទាំងអស់គ្នាពេញចិត្តជាការស្រេច។`,
@@ -47,6 +48,7 @@ const translations = {
     shortcut1: `1. Go to official website of google mail (https://mail.google.com/), then sign into your account and click on vertical ellipsis button.`,
     shortcut2: `2. Scroll down to Cast, save, and share, click on it and choose create shortcut .`,
     shortcut3: `3. Lastly, there will be an alert, so just write the name of this shortcut and click create.`,
+    shortcut4:`4. When you open the website or shortcut of Gmail, you need to sign in if you already have an account or just create a new one by following the gmail policy.`,
     label1: `1. Firstly, find label button and click on it and there will be a popup so that you can enter the name of your label and click create.`,
     label2: `2. You can also colorize the label that you created by just right click on that label and click on label color.`,
     label3: `3. Click on gear icon and scroll down abit, choose customize of Multiple Boxes.`,
